@@ -1,0 +1,25 @@
+{
+  "name": "angulardemo",
+  "version": "1.0.0",
+  "description": "Angular Javascript Demo",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melmorris21/angulardemo.git"
+  },
+  "author": "Melissa Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melmorris21/angulardemo/issues"
+  },
+  "homepage": "https://github.com/melmorris21/angulardemo#readme",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^15.2.0"
+  },
+  "dependencies": {
+    "@angular/core": "^15.2.0"
+  }
+}
