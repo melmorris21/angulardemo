@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/melmorris21/angulardemo/issues"
   },
-  "homepage": "https://github.com/melmorris21/angulardemo#readme"
+  "homepage": "https://github.com/melmorris21/angulardemo#readme",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^15.2.0"
+  }
 }
