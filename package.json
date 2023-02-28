@@ -18,5 +18,8 @@
   "homepage": "https://github.com/melmorris21/angulardemo#readme",
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.0"
+  },
+  "dependencies": {
+    "@angular/platform-browser-dynamic": "^15.2.0"
   }
 }
