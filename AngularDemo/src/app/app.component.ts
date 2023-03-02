@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'AngularDemo';
+  title = 'Pokemon Battle Station';
+  footer ='2023 | Melissa Morris';
 }
