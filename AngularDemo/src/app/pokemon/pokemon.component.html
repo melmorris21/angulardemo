@@ -1,1 +1,8 @@
-<h2>{{pokemon}}</h2>
+<h2>Pokemon</h2>
+<ul class="pokemon">
+    <li *ngFor="let pokemon of pokemon">
+        <span class="name">{{pokemon.name}}</span>
+        <span class="id">{{pokemon.id}}</span>
+        <img class="picture" [src]="pokemon.picture" />
+    </li>
+</ul>
